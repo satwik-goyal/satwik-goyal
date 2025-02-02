@@ -1,3 +1,11 @@
+## Hi there!
+
+### Hello world! I am Satwik Goyal. I am currently pursuing an MEng in Computer Science at the University of Manchester. I love playing Table Tennis and If you want to connect with me please use one of the socials.
+---
+### Interesting Fact about me: I have played sitar for 5 years.
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satwik-goyal/) 
