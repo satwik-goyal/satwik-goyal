@@ -1,8 +1,8 @@
 ## Hi there!
 
-### Hello world! I am Satwik Goyal. I am currently pursuing an MEng in Computer Science at the University of Manchester. I love playing Table Tennis and If you want to connect with me please use one of the socials.
+### Hello world! I am Satwik Goyal. I am currently pursuing an MEng in Computer Science at the University of Manchester. I love playing table tennis, and if you want to connect with me, please use one of my social media accounts.
 ---
-### Interesting Fact about me: I have played sitar for 5 years.
+### Interesting fact about me: I have played sitar for 5 years.
 
 
 
